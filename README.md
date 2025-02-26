@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast**, **P
 
 ## **Let's Connect!**
 
-- [LinkedIn](https://www.linkedin.com/pk/KhushamAsghar)
+- [LinkedIn](https://www.linkedin.com/in/KhushamAsghar)
 - [Twitter](https://twitter.com/yourtwitter)
 - [Website](https://yourwebsite.com)
 
