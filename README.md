@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast**, **P
 
 ## **🌟 Featured Repositories**
 
-- **[WPA2 Cracking Tutorial](https://github.com/Zeroday19216801/WPA2-Cracking/tree/main)**: A complete guide on WPA2 password cracking using Kali Linux and Aircrack-ng.
-- **[Penetration Testing Scripts](https://github.com/yourusername/penetration-testing-scripts)**: A collection of scripts for penetration testing, network reconnaissance, and vulnerability analysis.
+- **[WPA2 Cracking](https://github.com/Zeroday19216801/WPA2-Cracking/tree/main)**: A complete guide on WPA2 password cracking using Kali Linux and Aircrack-ng.
+- **[Creating Backdoors and Payloads](https://github.com/Zeroday19216801/Backdoors-Payloads)**: A complete guide on creating backdoors and maintaining persistence
 
 ## **📚 Projects & Certifications**
 
